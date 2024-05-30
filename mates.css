@@ -1,0 +1,23 @@
+body {
+    background-image: linear-gradient(to right, hsl(155, 100%, 85%),hsl(156, 51%, 14%));
+    color: #eee;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-image: linear-gradient(to right, hsl(155,100%,65%),hsl(156, 51%, 14%));
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
