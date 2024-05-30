@@ -21,3 +21,10 @@ li {
     margin-bottom: 5px;
     border-radius: 5px;
 }
+
+footer {
+    background-image: linear-gradient(to right, hsl(155, 100%, 85%),hsl(156, 51%, 14%));
+    color: #black;
+    text-align: center;
+    padding: 20px;
+}
