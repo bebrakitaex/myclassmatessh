@@ -1,5 +1,16 @@
+:root{
+    /* ===== Colors ===== */
+    --body-color: #E4E9F7;
+    --sidebar-color: #FFF;
+    --primary-color: #695CFE;
+    --primary-color-light: #F6F5FF;
+    --toggle-color: #DDD;
+    --text-color: #707070;
+}
+
+
 body {
-    background-image: linear-gradient(to right, hsl(155, 100%, 85%),hsl(156, 51%, 14%));
+    background-image: linear-gradient(to right, #695CFE, #E4E9F7);
     color: #eee;
     font-family: sans-serif;
 }
@@ -16,14 +27,14 @@ ul {
 }
 
 li {
-    background-image: linear-gradient(to right, hsl(155,100%,65%),hsl(156, 51%, 14%));
+    background-image: linear-gradient(to right, #545FF2, #c5d0e8);
     padding: 10px;
     margin-bottom: 5px;
     border-radius: 5px;
 }
 
 footer {
-    background-image: linear-gradient(to right, hsl(155, 100%, 85%),hsl(156, 51%, 14%));
+    background-image: linear-gradient(to right, #695CFE, #c5d0e8);
     color: #black;
     text-align: center;
     padding: 20px;
